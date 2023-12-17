@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "94619162799",
+    "firebase_url": "https://exercise-and-nutrition-api-default-rtdb.firebaseio.com",
+    "project_id": "exercise-and-nutrition-api",
+    "storage_bucket": "exercise-and-nutrition-api.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:94619162799:android:e2baf0adb533aa39675c5a",
+        "android_client_info": {
+          "package_name": "com.example.projek_uts"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgQjzFgrQIGxJvLh_63OmfHlvdwjRB5q0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
